@@ -1,18 +1,14 @@
-# 使用方法：
-## 下载相关的库：
-
+## 使用方法：
 ```
-  pip install -r requirements.txt
+pip install -r requirements.txt    # Download the necessary libraries
 ```
 
-## 把想要被双击打开的桌面图片截图并保存到img文件夹下。
-## 运行文件main.py:
-
 ```
-  python main.py
+python main.py    # Run the "main.py" file:
 ```
 
-# 注意事项：
-* 作为日常使用，桌面最好选择静态的，以免影响图片识别。
-* 使用时，快捷指令不能被遮挡。
-* 目前还无法解决透过requirements.txt安装python环境，需手动安装。
+## Notes:
+* Take a screenshot of the desktop image that you want to be opened by double-clicking and save it to the "img" folder.
+* For daily use, it is recommended to select a static desktop image to avoid affecting image recognition.
+* When using the program, make sure that the shortcut command is not covered by other windows.
+* Currently, it is not possible to install the Python environment through "requirements.txt" file. You need to manually install it.

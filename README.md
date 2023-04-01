@@ -3,7 +3,7 @@
 pip install -r requirements.txt    # Download the necessary libraries
 ```
 ```
-python main.py    # Run the "main.py" file:
+python main.py    # Run the programe
 ```
 
 ## Notes:
